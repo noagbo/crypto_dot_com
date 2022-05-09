@@ -140,11 +140,11 @@ DEPENDENCIES
   capybara
   capybara-screenshot
   cucumber
-  rspec
+  rspec-expectations
   rubocop
   selenium-cucumber
-  selenium-webdriver (~> 4.0)
-  webdrivers (~> 5.0)
+  selenium-webdriver
+  webdrivers
 
 BUNDLED WITH
    2.2.32
